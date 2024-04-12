@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/ShapesMenu.jsx", "components/users/ActiveUsers.jsx", "components/ui/button.jsx", "components/settings/Dimensions.jsx", "components/settings/Text.jsx", "components/settings/Color.jsx", "components/settings/Export.jsx", "lib/shapes.ts", "components/RightSidebar.jsx", "components/comments/NewThread.jsx", "components/Navbar.jsx", "components/LeftSidebar.jsx", "components/Live.jsx"],
   "exclude": ["node_modules"]
 }
